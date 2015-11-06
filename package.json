@@ -6,5 +6,8 @@
   "author": "Connor Sears",
   "scripts": {
     "start": "electron ."
+  },
+  "dependencies": {
+    "AxisJS": "times/axisJS"
   }
 }
